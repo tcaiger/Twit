@@ -1,0 +1,44 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: #F5F8FA;
+    -webkit-font-smoothing: antialiased;
+}
+.form-container{
+	max-width: 250px;
+}
+.banner{
+	margin: 0;
+	padding: 0;
+	margin-bottom: 20px;
+	height: 250px;
+	width: 100%;
+	background-image: url('slack.jpg');
+
+}
+.user-col{
+	position: relative;
+	top: -100px;
+}
+.image-holder{
+	width: 160px;
+	height: 150px;
+}
+.tweet-content{
+	position: relative;
+	max-width: 400px;
+}
+.user-info{
+
+}
+.edit{
+	position: absolute;
+	bottom: 2em;
+	right: 4em;
+}
+.delete{
+	position: absolute;
+	bottom: 2em;
+	right: 2em;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLnN0eWwiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDQyxhQUE2QiwrQ0FBN0I7O0FBRUQ7RUFDQyxXQUFXLE1BQVg7RUFDQSxRQUFRLE9BQVIiLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiYm9keXtcblx0Zm9udC1mYW1pbHk6ICdIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWZcbn1cbi5jb250YWluZXJ7XG5cdG1heC13aWR0aDogNTAwcHhcblx0bWFyZ2luOiAwIGF1dG9cbn0iXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0= */
